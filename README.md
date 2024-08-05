@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devjain32
-- 👀 I’m interested in programming, crypto/blockchain, mechanical engineering, and development
-- 🌱 I’m currently studying mechanical engineering, software engineering, and economics
-- 💞️ I’m looking to collaborate on open-source blockchain projects
+- 👀 I’m interested in building projects around supply chain, construction, and freight
+- 🌱 I studied mechanical engineering, software engineering, and economics
+- 💞️ I’m open to collaborate on open-source projects!
 - 📫 How to reach me devrjain32200@gmail.com
 
 <!---
